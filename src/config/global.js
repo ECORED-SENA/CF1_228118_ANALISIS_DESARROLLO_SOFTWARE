@@ -251,13 +251,6 @@ export default {
       referencia:
         'UMNG. (2019). <i>Elementos de la norma IEEE 830</i>. YouTube.',
       tipo: 'Video',
-      link: 'https://youtu.be/LjBOTZddiE',
-    },
-    {
-      tema: 'Especificación de requisitos',
-      referencia:
-        'UMNG. (2019). <i>Elementos de la norma IEEE 830</i>. YouTube.',
-      tipo: 'Video',
       link:
         'http://www.foss2serve.org/index.php/RequirementsEngineering,CSULongBeach,Penzenstadler',
     },
@@ -414,8 +407,6 @@ export default {
     },
     {
       referencia: 'Centro Tic de Andalucía. (2019). El enfoque sistémico.',
-      link:
-        'https://www.juntadeandalucia.es/averroes/centros-tic/14002996/helvia/aula/archivos/repositorio/250/271/html/economia/1c/sistemico.html',
     },
     {
       referencia:
@@ -446,8 +437,6 @@ export default {
     {
       referencia:
         'Durán, A., Bernárdez, B., Ruiz, A. y Toro, M. (1999). A Requirements Elicitation Approach Based in Templates and Patterns.',
-      link:
-        'https://www.researchgate.net/publication/2890318ARequirementsElicitationApproachBasedinTemplatesandPatterns',
     },
     {
       referencia:
@@ -596,6 +585,12 @@ export default {
             'Centro de Teleinformática y Producción Industrial - Regional Cauca',
         },
         {
+          nombre: 'Peter Emerson Pinchao Solis',
+          cargo: 'Experto Temático',
+          centro:
+            'Centro de Teleinformática y Producción Industrial - Regional Cauca',
+        },
+        {
           nombre: 'Henry Eduardo Bastidas Paruma',
           cargo: 'Experto temático',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
@@ -631,22 +626,12 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Luis Gabriel Urueta Alvarez',
-          cargo: 'Validador de Recursos Educativos Digitales',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
           nombre: 'Jaime Hernán Tejada Llano',
           cargo: 'Validador de Recursos Educativos Digitales',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
         {
           nombre: 'Daniel Ricardo Mutis Gómez',
-          cargo: 'Evaluador para contenidos inclusivos y accesibles',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
-          nombre: 'Margarita Marcela Medrano Gómez',
           cargo: 'Evaluador para contenidos inclusivos y accesibles',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },

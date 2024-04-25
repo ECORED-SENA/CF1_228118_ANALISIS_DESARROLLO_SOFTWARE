@@ -694,10 +694,6 @@
             img(src='@/assets/curso/temas/122.png',style="width: auto;max-width: 100%;")
           p.text-white.mb-0 Tiene la característica de seguir normas, reglas y procedimientos.
 
-        .d-flex.borde-10.p-3.bg11.align-items-center.mb-4
-          figure.me-3(style="width: 52px")
-            img(src='@/assets/curso/temas/123.png',style="width: auto;max-width: 100%;")
-          p.text-white.mb-0 Tiene la característica de seguir normas, reglas y procedimientos.
         p.mb-4 Para el caso de obtención de requerimientos del #[em software] la observación nos sirve para estudiar el entorno de trabajo de los usuarios, clientes e interesados de proyecto (#[em stakeholders]) y para documentar la situación actual de procesos de negocio.
         p En la siguiente figura, se pueden revisar los tipos de observación.
       

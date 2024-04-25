@@ -284,7 +284,7 @@
                   span 4
                 | Las entrevistas.              
 
-    p(data-aos="fade-down") Como resultado de estas técnicas, se deben establecer claramente y como mínimo lo siguientes ítems: roles de los intervinientes, información de contactos con responsabilidades, misión, visión, objetivos estratégicos, estructura organizacional un organigrama de la entidad su distribución de dependencias u oficinas, en donde se puede ubicar de manera ágil a los responsables, que seguramente se convertirán en futuros miembros de los equipos de trabajo donde se presentará interacción.     
+    p(data-aos="fade-down") Como resultado de estas técnicas, se deben establecer claramente y como mínimo los siguientes ítems: roles de los intervinientes, información de contactos con responsabilidades, misión, visión, objetivos estratégicos, estructura organizacional un organigrama de la entidad su distribución de dependencias u oficinas, en donde se puede ubicar de manera ágil a los responsables, que seguramente se convertirán en futuros miembros de los equipos de trabajo donde se presentará interacción.     
 
     .row.justify-content-center.align-items-center.mb-4           
       .col-lg-7.my-3
@@ -379,7 +379,7 @@
                   h5.mb-1.t2 Generar los diagramas de los procesos de negocio
                   p.mb-0.text-white Para ampliar la información sobre este tema, lo invitamos a consultar el siguiente PDF. 
                 .col-sm-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Generar_los_diagramas_de_los_procesos_de_negocio.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
         img.img-a.img-t(src='@/assets/curso/temas/34.png', alt='') 
@@ -393,7 +393,7 @@
           .list__txt.bgicon.p-0.px-4.text-white
             h3.mb-0 Realizar un diagnóstico de cada proceso               
 
-    p(data-aos="fade-down") Esta labor permite a las empresas detectar ,por medio la implementación de estrategias, los problemas de funcionamiento y deficiencias. Estas estrategias son: 
+    p(data-aos="fade-down") Esta labor permite a las empresas detectar, por medio la implementación de estrategias, los problemas de funcionamiento y deficiencias. Estas estrategias son: 
 
     .row.justify-content-center.mb-4           
       .col-lg-4.my-3
@@ -488,7 +488,7 @@
                       li 
                         .lista-ol--cuadro__vineta
                           span a
-                        | Usuario solicitante contra el proceso de solicitud de compra ,en donde un usuario puede generar una o muchas solicitudes de compras.
+                        | Usuario solicitante contra el proceso de solicitud de compra, en donde un usuario puede generar una o muchas solicitudes de compras.
                       li 
                         .lista-ol--cuadro__vineta
                           span b
@@ -528,7 +528,7 @@
                       li 
                         .lista-ol--cuadro__vineta
                           span c
-                        | Administrador del sistema online.
+                        span Administrador del sistema #[em online].
                       li 
                         .lista-ol--cuadro__vineta
                           span d

@@ -110,14 +110,17 @@
 
     p(data-aos="fade-down").mb-5 También conocido como (SDLC o #[i Systems Development Life Cycle]), es el proceso que se sigue para construir y hacer evolucionar un determinado #[i software]. El ciclo de vida permite iniciar una serie de fases mediante las cuales se procede a la validación y al desarrollo del #[i software] garantizando que se cumplan los requisitos para la aplicación y verificación de los procedimientos de desarrollo; para ello, se utilizan métodos del ciclo del #[i software], que indican distintos pasos a seguir para el desarrollo de un producto.       
 
-    .row.justify-content-center.align-items-center.bg13.px-3(data-aos="fade-left")
-      .col-lg-12
-        .row.justify-content-center.align-items-center.bg12.pb-0 
-          .col-lg-3.p-0.ps-5
-            img.img-mov(data-aos="zoom-in")(src='@/assets/curso/temas/46.png')     
-          .col-lg-9(data-aos="fade-down") 
-            p(data-aos="fade-down") Si bien existen diferentes ciclos de desarrollo de #[i software], la normativa ISO/IEC/IEEE 12207:2017 establece que: 
-            h5(data-aos="fade-down").color3.px-4 Es un marco común para los procesos del ciclo de vida de los programas informáticos, con una terminología bien definida, a la que pueda remitirse la industria del #[i software]. Contiene procesos, actividades y tareas aplicables durante la adquisición, el suministro, el desarrollo, el funcionamiento, el mantenimiento o la eliminación de sistemas, productos y servicios informáticos. Estos procesos del ciclo de vida se llevan a cabo mediante la participación de los interesados, con el objetivo final de lograr la satisfacción del cliente (s.p.).  
+    .cont_1_1.p-4.p-lg-5
+      .cont_1_2
+        .row
+          .col-lg-4.col-xl-4.mb-4.mb-lg-0(data-aos="fade-right")
+            figure.m-auto.col-md-5.col-lg-12.col-8
+              img.img-t(src="@/assets/curso/temas/46.png" style="z-index:1;")
+          .col-lg-8.col-xl-8(data-aos="fade-left" style="place-self:center;")
+            .p-4.p-lg-0
+              .mb-0.mt-0.mt-lg-5
+                p(data-aos="fade-down") Si bien existen diferentes ciclos de desarrollo de #[i software], la normativa ISO/IEC/IEEE 12207:2017 establece que: 
+                h5(data-aos="fade-down").color3.px-4 Es un marco común para los procesos del ciclo de vida de los programas informáticos, con una terminología bien definida, a la que pueda remitirse la industria del #[i software]. Contiene procesos, actividades y tareas aplicables durante la adquisición, el suministro, el desarrollo, el funcionamiento, el mantenimiento o la eliminación de sistemas, productos y servicios informáticos. Estos procesos del ciclo de vida se llevan a cabo mediante la participación de los interesados, con el objetivo final de lograr la satisfacción del cliente (s.p.).               
 
     p(data-aos="fade-down").my-5 A continuación, se indican cuáles son los elementos que integran un ciclo de vida:
 
