@@ -108,7 +108,7 @@
     #t_2_1.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
       h2 2.1 Ciclo de vida del #[i software]  
 
-    p(data-aos="fade-down").mb-5 También conocido como (SDLC o #[i Systems Development Life Cycle]), es el proceso que se sigue para construir y hacer evolucionar un determinado #[i software]. El ciclo de vida permite iniciar una serie de fases mediante las cuales se procede a la validación y al desarrollo del #[i software] garantizando que se cumplan los requisitos para la aplicación y verificación de los procedimientos de desarrollo; para ello, se utilizan métodos del ciclo del #[i software], que indican distintos pasos a seguir para el desarrollo de un producto.       
+    p(data-aos="fade-down").mb-5 También conocido como SDLC o #[i Systems Development Life Cycle], es el proceso que se sigue para construir y hacer evolucionar un determinado #[i software]. El ciclo de vida permite iniciar una serie de fases mediante las cuales se procede a la validación y al desarrollo del #[i software] garantizando que se cumplan los requisitos para la aplicación y verificación de los procedimientos de desarrollo; para ello, se utilizan métodos del ciclo del #[i software], que indican distintos pasos a seguir para el desarrollo de un producto.       
 
     .cont_1_1.p-4.p-lg-5
       .cont_1_2
@@ -182,7 +182,7 @@
                       h4.t1.mb-4 FASE DISEÑO:  
                       p En esta fase se estudian posibles opciones de implementación para el #[i software] que hay que construir, estructura general del mismo.
 
-                      p #[b Objetivos:] identificar soluciones tecnológicas, asignar recursos materiales, proponer identificar y seleccionar, establecer métodos de validación, ajustar especificaciones.                  
+                      p #[b Objetivos:] identificar soluciones tecnológicas, asignar recursos materiales, proponer, identificar y seleccionar, establecer métodos de validación, ajustar especificaciones.                  
                   .col-lg-4.mb-4.mb-md-0
                     img.img-a.img-t(src='@/assets/curso/temas/51.png') 
 
@@ -298,7 +298,7 @@
         .row.justify-content-center.px-4
           .col-lg-6.mb-4.mb-md-0
             h4 #[mark.px-2.bg11.text-white Modelo iterativo o por prototipos]
-            p Este modelo consiste en un procedimiento que permite al equipo de desarrollo diseñar y analizar una aplicación que represente el sistema que será implementado (McCracken y Jackson, 1982).
+            p Este modelo consiste en un procedimiento que permite al equipo de desarrollo, diseñar y analizar una aplicación que represente el sistema que será implementado (McCracken y Jackson, 1982).
 
             h5 Objetivos 
 
@@ -372,7 +372,7 @@
             h3.mb-0 Modelo Scrum
 
 
-    p(data-aos="fade-down") Este modelo se basa en el desarrollo incremental, es decir conforme pasen las fases y la iteración mayor será el tamaño del proyecto que se está desarrollando.
+    p(data-aos="fade-down") Este modelo se basa en el desarrollo incremental, es decir, conforme pasen las fases y la iteración, mayor será el tamaño del proyecto que se está desarrollando.
 
     .row.justify-content-center.align-items-center.mb-4          
       .col-lg-5.my-3
@@ -687,7 +687,7 @@
                   .col-lg-7.col-md-auto
                     .t2.pe-5                  
                       h4.t3.mb-4 Priorizado 
-                      p.text-white Categorizar el requerimiento nos ayuda a saber el grado de necesidad del mismo: esencial/crítico, deseado, opcional verificable.
+                      p.text-white Categorizar el requerimiento nos ayuda a saber el grado de necesidad del mismo: esencial/crítico, deseado, opcional,verificable.
 
                 .row.justify-content-center.align-items-center.p-2
                   .col-lg-4.mb-4.mb-md-0
@@ -695,7 +695,7 @@
                   .col-lg-7.col-md-auto
                     .t2.pe-5                  
                       h4.t3.mb-4 Verificable
-                      p.text-white Si un requerimiento no se puede comprobar, entonces, ¿cómo se sabe si se cumplió con él o no? Debe ser posible verificarlo ya sea por inspección, análisis de prueba o demostración. Cuando se escriba un requerimiento, se deberán determinar los criterios de aceptación.   
+                      p.text-white Si un requerimiento no se puede comprobar, entonces, ¿cómo se sabe si se cumplió con él o no? Debe ser posible verificarlo, ya sea por inspección, análisis de prueba o demostración. Cuando se escriba un requerimiento, se deberán determinar los criterios de aceptación.   
 
                 .row.justify-content-center.align-items-center.p-2
                   .col-lg-4.mb-4.mb-md-0

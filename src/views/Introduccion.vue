@@ -17,12 +17,12 @@
               .col-lg-auto.my-3
                 img.img-a.img-t(src='@/assets/curso/temas/179.svg', alt='')       
               .col.my-3
-                p(data-aos="fade-down").mb-0 Bienvenidos al estudio del presente componente formativo, en el cual se estudiará la caracterización de procesos, para continuar con la ingeniería de requisitos, entendiéndola como el conjunto de actividades y tareas del proceso de desarrollo de sistemas software, donde se definen que las características de un sistema software satisfagan las necesidades de negocio de clientes y usuarios y que se integre con éxito en el entorno en el que se trabaje. 
+                p(data-aos="fade-down").mb-0 Bienvenidos al estudio del presente componente formativo, en el cual se estudiará la caracterización de procesos, para continuar con la ingeniería de requisitos, entendiéndola como el conjunto de actividades y tareas del proceso de desarrollo de sistemas #[em software], donde se definen que las características de un sistema #[em software] satisfagan las necesidades de negocio de clientes y usuarios y que se integre con éxito en el entorno en el que se trabaje. 
 
             .row.justify-content-center.align-items-center.mb-4
               .col-lg-8.my-3 
                 .bgi1.brad.p-4.mb-4(data-aos="flip-down")
-                  p(data-aos="fade-down") Por este motivo, estudiaremos el ciclo de vida del software, sus fases y los diferentes paradigmas de los modelos de vida del software, haciendo énfasis en los requisitos, su importancia y clasificación.
+                  p(data-aos="fade-down") Por este motivo, estudiaremos el ciclo de vida del #[em software], sus fases y los diferentes paradigmas de los modelos de vida del #[em software], haciendo énfasis en los requisitos, su importancia y clasificación.
 
                   p(data-aos="fade-down").mb-0 Luego trataremos el tema de la recolección de datos, el cual se refiere al uso de una gran diversidad de técnicas y herramientas que pueden ser utilizadas por el analista para desarrollar los sistemas. 
                 .row.justify-content-center.align-items-center

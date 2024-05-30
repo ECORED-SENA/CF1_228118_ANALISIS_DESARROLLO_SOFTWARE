@@ -265,7 +265,7 @@ export default {
       tema: 'Estándar IEEE 830',
       referencia: 'SO/IEC/IEEE 29148:2011. (s. f.). ISO.',
       tipo: 'Página web',
-      link: '',
+      link: 'https://www.iso.org/standard/45171.html',
     },
     {
       tema: 'Estándar IEEE 830',

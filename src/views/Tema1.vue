@@ -26,7 +26,7 @@
             .row.justify-content-center.align-items-center.mb-4           
               .col-lg-7.my-3 
                 .bg2.p-4.brad.h-100.j.mb-4(data-aos="fade-left")
-                  p(data-aos="fade-down").mb-0 Esta teoría se constituyó como un nuevo aporte dentro del conjunto de paradigmas científicos, para el abordaje de problemas que se basan en la correspondencia entre los elementos que conforman los sistemas. Antes de esta propuesta se pensaba que los sistemas desde el punto de vista de su conformación global, se asemejaban a la sumatoria de sus elementos integrantes y que podían ser entendidos, disgregándolos para realizar un estudio individual de cada componente.              
+                  p(data-aos="fade-down").mb-0 Esta teoría se constituyó como un nuevo aporte dentro del conjunto de paradigmas científicos, para el abordaje de problemas que se basan en la correspondencia entre los elementos que conforman los sistemas. Antes de esta propuesta se pensaba que los sistemas, desde el punto de vista de su conformación global, se asemejaban a la sumatoria de sus elementos integrantes y que podían ser entendidos, disgregándolos para realizar un estudio individual de cada componente.              
                 p(data-aos="fade-down") Desde sus inicios, la teoría general de sistemas se ha utilizado en diferentes áreas de la ciencia, la ingeniería, las matemáticas, la biología, la política, las ciencias sociales, las ciencias de la computación, la economía y otras ciencias exactas y sociales, primordialmente en el marco del análisis de las correlaciones que se presentan en sus componentes y su interoperabilidad. 
               .col-lg-5.my-3 
                 img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/3.png', alt='')          
@@ -66,7 +66,7 @@
                 .bloque-texto-d.color-secundario.p-4(data-aos="fade-left")
                   .bloque-texto-d__texto.mb-2
                     i.fas.fa-quote-left
-                    p.mb-0 “Sistema es un conjunto organizado de elementos que interactúan entre sí con estructura lógica o que son interdependientes, formando un todo complejo, identificable y distinto. Por los elementos de un sistema se entiende no solo su conformación física sino las funciones que estos desempeñan. Algún conjunto de elementos de un sistema puede ser considerado un subsistema si mantienen una relación entre sí que los hace también un conjunto identificable y distinto”.
+                    p.mb-0 “Sistema es un conjunto organizado de elementos que interactúan entre sí con estructura lógica o que son interdependientes, formando un todo complejo, identificable y distinto. Por los elementos de un sistema se entiende no solo su conformación física, sino las funciones que estos desempeñan. Algún conjunto de elementos de un sistema puede ser considerado un subsistema si mantienen una relación entre sí que los hace también un conjunto identificable y distinto”.
                     i.fas.fa-quote-right
                   .bloque-texto-d__autor 
                     .h5.mb-0 Ludwig Von Bertalanffy (1968).    
@@ -116,13 +116,13 @@
 
                     p Si se entiende por sistema un conjunto de partes, podemos hablar de subsistemas para referirse a tales elementos; un ejemplo de ello es: la conformación de una familia como un sistema y cada miembro en ella es un subsistema. El supersistema es el contexto externo que rodea al sistema y en el que este se encuentra inmerso; en los grupos o comunidades de humanos es identificable con la sociedad.  
                   div(titulo="Reales físicos, ideales y abstracciones")
-                    p De acuerdo con su esencia los sistemas se pueden clasificar en reales físicos, como producto del pensamiento ideales y modelos. Los sistemas reales son aquellos que existen físicamente y que pueden ser objeto de observación y por tanto objetos de medición, mientras que los sistemas ideales son las representaciones simbólicas extraídas de la abstracción que produce el pensamiento y el lenguaje, que se traducen en diseños y modelos. Las abstracciones y sus correlaciones pretenden representar características reales e ideales, aquí es importante tener en cuenta el conjunto de requerimientos, solicitudes, la definición de límites con las cuales se pretende llegar a los objetivos finales.  
+                    p De acuerdo con su esencia, los sistemas se pueden clasificar en reales físicos, como producto del pensamiento ideal y modelo. Los sistemas reales son aquellos que existen físicamente y que pueden ser objeto de observación y por tanto, objetos de medición, mientras que los sistemas ideales son las representaciones simbólicas extraídas de la abstracción que produce el pensamiento y el lenguaje, que se traducen en diseños y modelos. Las abstracciones y sus correlaciones pretenden representar características reales e ideales, aquí es importante tener en cuenta el conjunto de requerimientos, solicitudes, la definición de límites con las cuales se pretende llegar a los objetivos finales.  
                   div(titulo="De la naturaleza, artificiales y mixtos")
                     p Cuando un sistema está inmerso o corresponde únicamente al funcionamiento de la naturaleza, como lo es un lago, un río, la selva, el cuerpo humano, los planetas o las galaxias, entonces hay que referirse a ellos como sistemas naturales. Por el contrario, los sistemas artificiales son aquellos que emergen de la creación del hombre, es decir, como productos de la acción humana.
 
                     p Los sistemas mixtos se dan por la combinación de elementos naturales y artificiales. Cualquier entorno de orden físico que sufre alteraciones dadas por el ser humano, como lo son los pueblos, las ciudades, los ríos en donde se construyen represas, es considerado un sistema mixto; el grado de participación de elementos naturales y artificiales varía en cada caso concreto en proporciones diferentes.  
                   div(titulo="Cerrados y abiertos")
-                    p Torres (2021) argumenta: “El criterio principal que define a un sistema es el grado de interacción con el supersistema y otros sistemas. Los sistemas abiertos intercambian materia, energía y/o información con el entorno que los rodea, adaptándose a éstos e influyendo en él. En cambio, los sistemas cerrados se encuentran teóricamente alejados de las influencias ambientales; en la práctica se habla de sistemas cerrados cuando están altamente estructurados y la retroalimentación es mínima, puesto que ningún sistema es completamente independiente de su suprasistema”.  
+                    p Torres (2021) argumenta: “El criterio principal que define a un sistema es el grado de interacción con el supersistema y otros sistemas. Los sistemas abiertos intercambian materia, energía y/o información con el entorno que los rodea, adaptándose a estos e influyendo en él. En cambio, los sistemas cerrados se encuentran teóricamente alejados de las influencias ambientales; en la práctica se habla de sistemas cerrados cuando están altamente estructurados y la retroalimentación es mínima, puesto que ningún sistema es completamente independiente de su suprasistema”.  
 
     .row.justify-content-start.mb-4 
       .col-auto(data-aos="flip-down")
@@ -160,7 +160,7 @@
       .col-lg-4.my-3
         .bg5.brad.p-4.h-100.text-white.text-center
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/14.png', alt='')
-          p(data-aos="fade-down").mb-0 La información es un conjunto de datos los cuales son adecuadamente procesados, para que puedan proveer un mensaje que contribuya a la toma de decisiones a la hora de resolver un problema o afrontar una situación cualquiera, en la que se requiera de la toma de decisiones de cualquier tipo.                      
+          p(data-aos="fade-down").mb-0 La información es un conjunto de datos, los cuales son adecuadamente procesados, para que puedan proveer un mensaje que contribuya a la toma de decisiones a la hora de resolver un problema o afrontar una situación cualquiera, en la que se requiera de la toma de decisiones de cualquier tipo.                      
       .col-lg-4.my-3 
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/15.png', alt='')
 
@@ -263,7 +263,7 @@
       .col-lg-9.my-3                           
         AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta bg4")
           div(titulo="Escenario 1")
-            p Antes: se debe obtener acceso de información sobre la organización, para antes de llegar a esta, se investigue sobre el contexto de negocio en el que se mueve la empresa. Por ejemplo: determinar si se está hablando de un banco o una empresa de energía o una empresa que presta servicios y en ese caso, qué tipo de servicios presta o por el contrario, si es una empresa que fabrica productos, qué productos fabrica, es decir, qué hace. Conocer de ella también sus sedes (instalaciones físicas). 
+            p Antes: se debe obtener acceso de información sobre la organización, para antes de llegar a esta, se investigue sobre el contexto de negocio en el que se mueve la empresa. Por ejemplo: determinar si se está hablando de un banco o una empresa de energía o una empresa que presta servicios y en ese caso, qué tipo de servicios presta o, por el contrario, si es una empresa que fabrica productos, qué productos fabrica, es decir, qué hace. Conocer de ella también sus sedes (instalaciones físicas). 
           div(titulo="Escenario 2")
             p Cuando exista cercanía, acceso o contacto con la entidad, planear entonces la recolección de información, aplicando las técnicas que existen para ello, como son:
             ol.lista-ol--cuadro.fa-ul
@@ -419,7 +419,7 @@
             h3.mb-0 Puntos de mejora  
     .row.justify-content-center.align-items-center.mb-4(data-aos="flip-down") 
       .col.my-3
-        p(data-aos="fade-down").mb-0 Luego del diagnóstico de la situación actual, es importante construir un informe que dé a conocer el estado anterior y el estado actual hacia dónde se quiere llegar con las mejoras. En este informe se recomienda de manera obligatoria, el poder relacionar los alcances de las soluciones unidos en forma transversal con los objetivos estratégicos de la organización.  
+        p(data-aos="fade-down").mb-0 Luego del diagnóstico de la situación actual, es importante construir un informe que dé a conocer el estado anterior y el estado actual hacia dónde se quiere llegar con las mejoras. En este informe se recomienda, de manera obligatoria, el poder relacionar los alcances de las soluciones unidos en forma transversal con los objetivos estratégicos de la organización.  
       .col-lg-auto.my-3
         img.img-a.img-t(src='@/assets/curso/temas/38.png', alt='') 
 
