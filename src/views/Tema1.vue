@@ -407,7 +407,7 @@
       .col-lg-4.my-3
         .bg5.brad.p-5.h-100.text-white.text-center
           img.img-a.img-t.mb-4(data-aos="zoom-in")(src='@/assets/curso/temas/37.png', alt='')
-          p(data-aos="fade-down").mb-0 c) Apoyarse en herramientas de software para registrar resultados, controles, métricas, análisis de tiempos, costos y materias primas.  
+          p(data-aos="fade-down").mb-0 c) Apoyarse en herramientas de #[em software] para registrar resultados, controles, métricas, análisis de tiempos, costos y materias primas.  
 
     .row.justify-content-start.mb-4.mt-5 
       .col-auto(data-aos="flip-down")

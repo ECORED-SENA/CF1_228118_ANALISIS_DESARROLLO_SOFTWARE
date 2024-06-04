@@ -687,7 +687,7 @@
                   .col-lg-7.col-md-auto
                     .t2.pe-5                  
                       h4.t3.mb-4 Priorizado 
-                      p.text-white Categorizar el requerimiento nos ayuda a saber el grado de necesidad del mismo: esencial/crítico, deseado, opcional,verificable.
+                      p.text-white Categorizar el requerimiento nos ayuda a saber el grado de necesidad del mismo: esencial/crítico, deseado, opcional, verificable.
 
                 .row.justify-content-center.align-items-center.p-2
                   .col-lg-4.mb-4.mb-md-0
