@@ -247,21 +247,6 @@ export default {
       link: 'https://www.youtube.com/watch?v=mwnQuUi9014',
     },
     {
-      tema: 'Especificación de requisitos',
-      referencia:
-        'UMNG. (2019). <i>Elementos de la norma IEEE 830</i>. YouTube.',
-      tipo: 'Video',
-      link:
-        'http://www.foss2serve.org/index.php/RequirementsEngineering,CSULongBeach,Penzenstadler',
-    },
-    {
-      tema: 'Especificación de requisitos',
-      referencia:
-        'UMNG. (2019). <i>Elementos de la norma IEEE 830</i>. YouTube.',
-      tipo: 'Video',
-      link: 'https://ieeexplore.ieee.org/document/720574',
-    },
-    {
       tema: 'Estándar IEEE 830',
       referencia:
         'Scrum Certification, Agile Certification | Scrum, Agile Training. (n.d.).ScrumStudy.',
